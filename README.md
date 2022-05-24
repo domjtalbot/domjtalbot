@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey I'm Dom 👋
+### Hey I'm Dom :vulcan_salute:
 
 <br/> 
 
-![image](https://user-images.githubusercontent.com/3301714/133595002-c5f4b0ce-5331-4bd4-8a43-4dcb9da44b60.png)
+![](https://images.unsplash.com/photo-1559339484-2205377cc979?ixlib=rb-1.2.1&raw_url=true&q=70&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1100&h=350&p=center&crop=faces&fp-y=.65)
